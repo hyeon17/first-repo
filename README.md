@@ -1,4 +1,4 @@
-# first-repo
+# FIRST-repo
 
 This repo is to learn git
 [See demo](http://www.google.com)
